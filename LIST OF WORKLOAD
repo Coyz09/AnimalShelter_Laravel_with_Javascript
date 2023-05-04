@@ -1,0 +1,40 @@
+DONE WORKS:
+mp1 create an API endpoint and the jquery frontend for animal CRUD functions. animals should be categorized into different types. upload photos of animals. use Datatables. export contents of datatables in pdf and excel formats. enable datatable column visibility. 20pts
+
+mp2 create an API endpoint and the jquery frontend for rescuers CRUD functions. upload photos of rescuers. use Datatables. export contents of datatables in pdf and excel formats. enable datatable search,pagination and column visibility. 20pts
+
+mp3 create an API endpoint and the jquery frontend for shelter personnel CRUD functions. personnel can be employees, veterinarians or volunteers. upload photos of personnel. use Datatables. export contents of datatables in pdf and excel formats. enable datatable search,pagination and column visibility. 20pts
+
+mp4 create an API endpoint and the jquery frontend for common animal diseases and injuries. use Datatables. export contents of datatables in pdf and excel formats. enable datatable search,pagination and column visibility. 20pts
+
+
+mp5 create an API endpoint and the jquery frontend for adopter registration. shelter personnel will have to approve the registration. once approved, they can now update their user profile. 20pts
+
+quiz 2 create an API endpoint and the jquery frontend that will show all adopted animals and their adopters. 10pts
+
+quiz 4 use bootstrap for html styling and UI effects/animations 10pts
+
+unit 2 create a dashboard that will generate javascript charts(highchart, chartjs or other libraries) of the following: 
+total number of animals adopted monthly or yearly (use datepickers to choose a range of dates and the chart will automatically adjust ) 
+total number of animals rescued monthly or yearly (use datepickers to choose a range of dates and the chart will automatically adjust ) 20pts
+
+term test 20pts
+create a login api that will accept user credentials via ajax. use laravel passport/sanctum or JWT token for token based API authentication. 
+protect administrator api routes. 20pts
+or
+
+send user credential via ajax and use laravel's default authentication 15pts
+
+quiz 3 apply jQuery validation on all form inputs. 10pts
+
+CURRENTLY WORKING:
+
+
+mp6 create an API endpoint and the jquery frontend for showing and searching for adoptable animals. visitors or registered users can also comment on the profile of the animal. 20pts
+
+quiz 1 create an API endpoint and the jquery frontend for the animal rehabilitation process. vets record the animal's health status when they arrive at the shelter. vets determine whether an animal can now be adopted.  10pts 
+
+
+unit 1 create an API endpoint and the jquery frontend for the animal adoption process. a visitor can search and choose rehabilitated dogs or cats. A request is then sent and needs to be approved by any personnel. Apply autocomplete. No datatables. 20pts
+
+
